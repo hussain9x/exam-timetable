@@ -1,0 +1,4250 @@
+Number of exams booked: 1906
+Number of zero-size exams (ignored): 8
+Booking:  Date 2017-12-12 - Period 1 - Exam 64 Size=1 - Rooms={308=Room 308, size=1
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1255 Size=1 - Rooms={350=Room 350, size=5
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 18 Size=2 - Rooms={309=Room 309, size=6
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 157 Size=2 - Rooms={126=Room 126, size=7
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 608 Size=2 - Rooms={442=Room 442, size=7
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 645 Size=2 - Rooms={287=Room 287, size=8
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1252 Size=2 - Rooms={474=Room 474, size=8
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1457 Size=2 - Rooms={6=Room 6, size=10
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1773 Size=2 - Rooms={7=Room 7, size=10
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1796 Size=2 - Rooms={167=Room 167, size=10
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1832 Size=2 - Rooms={490=Room 490, size=11
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 356 Size=3 - Rooms={50=Room 50, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 485 Size=3 - Rooms={54=Room 54, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 686 Size=3 - Rooms={116=Room 116, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 721 Size=3 - Rooms={121=Room 121, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 777 Size=3 - Rooms={180=Room 180, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 960 Size=3 - Rooms={319=Room 319, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1090 Size=3 - Rooms={336=Room 336, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1660 Size=3 - Rooms={369=Room 369, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1790 Size=3 - Rooms={375=Room 375, size=12
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 57 Size=4 - Rooms={312=Room 312, size=13
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 133 Size=4 - Rooms={11=Room 11, size=14
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 149 Size=4 - Rooms={91=Room 91, size=14
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 507 Size=4 - Rooms={325=Room 325, size=14
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 617 Size=4 - Rooms={48=Room 48, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 723 Size=4 - Rooms={103=Room 103, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 846 Size=4 - Rooms={221=Room 221, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1228 Size=4 - Rooms={331=Room 331, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1244 Size=4 - Rooms={337=Room 337, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1248 Size=4 - Rooms={338=Room 338, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1299 Size=4 - Rooms={370=Room 370, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1304 Size=4 - Rooms={390=Room 390, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1503 Size=4 - Rooms={480=Room 480, size=15
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1541 Size=4 - Rooms={10=Room 10, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1587 Size=4 - Rooms={19=Room 19, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1593 Size=4 - Rooms={90=Room 90, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1604 Size=4 - Rooms={109=Room 109, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1661 Size=4 - Rooms={135=Room 135, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1702 Size=4 - Rooms={175=Room 175, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1716 Size=4 - Rooms={278=Room 278, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1825 Size=4 - Rooms={311=Room 311, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 159 Size=5 - Rooms={321=Room 321, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 297 Size=5 - Rooms={322=Room 322, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 388 Size=5 - Rooms={323=Room 323, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 509 Size=5 - Rooms={324=Room 324, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 511 Size=5 - Rooms={334=Room 334, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 524 Size=5 - Rooms={335=Room 335, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 625 Size=5 - Rooms={341=Room 341, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 629 Size=5 - Rooms={342=Room 342, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 680 Size=5 - Rooms={343=Room 343, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 873 Size=5 - Rooms={345=Room 345, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1099 Size=5 - Rooms={346=Room 346, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1104 Size=5 - Rooms={376=Room 376, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1122 Size=5 - Rooms={435=Room 435, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1205 Size=5 - Rooms={436=Room 436, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1262 Size=5 - Rooms={473=Room 473, size=16
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1438 Size=5 - Rooms={49=Room 49, size=17
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1442 Size=5 - Rooms={347=Room 347, size=17
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1499 Size=5 - Rooms={349=Room 349, size=17
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1577 Size=5 - Rooms={29=Room 29, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1596 Size=5 - Rooms={30=Room 30, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 7 Size=6 - Rooms={55=Room 55, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 271 Size=6 - Rooms={115=Room 115, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 414 Size=6 - Rooms={225=Room 225, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 475 Size=6 - Rooms={313=Room 313, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 519 Size=6 - Rooms={328=Room 328, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 572 Size=6 - Rooms={329=Room 329, size=18
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 627 Size=6 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 628 Size=6 - Rooms={4=Room 4, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 638 Size=6 - Rooms={20=Room 20, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1039 Size=6 - Rooms={28=Room 28, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1180 Size=6 - Rooms={43=Room 43, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1224 Size=6 - Rooms={52=Room 52, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1230 Size=6 - Rooms={53=Room 53, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1264 Size=6 - Rooms={71=Room 71, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1344 Size=6 - Rooms={72=Room 72, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1378 Size=6 - Rooms={73=Room 73, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1460 Size=6 - Rooms={76=Room 76, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1554 Size=6 - Rooms={122=Room 122, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1657 Size=6 - Rooms={133=Room 133, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1868 Size=6 - Rooms={141=Room 141, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1892 Size=6 - Rooms={153=Room 153, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1906 Size=6 - Rooms={154=Room 154, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1907 Size=6 - Rooms={155=Room 155, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1914 Size=6 - Rooms={156=Room 156, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 51 Size=7 - Rooms={157=Room 157, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 102 Size=7 - Rooms={158=Room 158, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 103 Size=7 - Rooms={160=Room 160, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 106 Size=7 - Rooms={161=Room 161, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 301 Size=7 - Rooms={169=Room 169, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 375 Size=7 - Rooms={192=Room 192, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 491 Size=7 - Rooms={207=Room 207, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 503 Size=7 - Rooms={257=Room 257, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 688 Size=7 - Rooms={277=Room 277, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 896 Size=7 - Rooms={280=Room 280, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 949 Size=7 - Rooms={301=Room 301, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 955 Size=7 - Rooms={310=Room 310, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1136 Size=7 - Rooms={314=Room 314, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1163 Size=7 - Rooms={320=Room 320, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1170 Size=7 - Rooms={330=Room 330, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1257 Size=7 - Rooms={373=Room 373, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1266 Size=7 - Rooms={421=Room 421, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1287 Size=7 - Rooms={451=Room 451, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1351 Size=7 - Rooms={455=Room 455, size=20
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1538 Size=7 - Rooms={74=Room 74, size=21
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1578 Size=7 - Rooms={340=Room 340, size=21
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1690 Size=7 - Rooms={344=Room 344, size=21
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1785 Size=7 - Rooms={178=Room 178, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1794 Size=7 - Rooms={179=Room 179, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1830 Size=7 - Rooms={275=Room 275, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1901 Size=7 - Rooms={326=Room 326, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 24 Size=8 - Rooms={327=Room 327, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 168 Size=8 - Rooms={332=Room 332, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 170 Size=8 - Rooms={333=Room 333, size=22
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 171 Size=8 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 220 Size=8 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 252 Size=8 - Rooms={452=Room 452, size=23
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 319 Size=8 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 352 Size=8 - Rooms={78=Room 78, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 372 Size=8 - Rooms={79=Room 79, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 431 Size=8 - Rooms={80=Room 80, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 455 Size=8 - Rooms={81=Room 81, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 523 Size=8 - Rooms={86=Room 86, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 573 Size=8 - Rooms={101=Room 101, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 701 Size=8 - Rooms={104=Room 104, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 743 Size=8 - Rooms={127=Room 127, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 804 Size=8 - Rooms={142=Room 142, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 924 Size=8 - Rooms={166=Room 166, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 945 Size=8 - Rooms={168=Room 168, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1108 Size=8 - Rooms={170=Room 170, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1177 Size=8 - Rooms={185=Room 185, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1310 Size=8 - Rooms={186=Room 186, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1571 Size=8 - Rooms={193=Room 193, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1725 Size=8 - Rooms={216=Room 216, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1735 Size=8 - Rooms={224=Room 224, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1774 Size=8 - Rooms={228=Room 228, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1787 Size=8 - Rooms={236=Room 236, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1793 Size=8 - Rooms={239=Room 239, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1803 Size=8 - Rooms={289=Room 289, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1848 Size=8 - Rooms={290=Room 290, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 144 Size=9 - Rooms={302=Room 302, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 327 Size=9 - Rooms={306=Room 306, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 534 Size=9 - Rooms={377=Room 377, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 586 Size=9 - Rooms={393=Room 393, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 593 Size=9 - Rooms={398=Room 398, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 631 Size=9 - Rooms={399=Room 399, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 643 Size=9 - Rooms={412=Room 412, size=24
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 738 Size=9 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 799 Size=9 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 809 Size=9 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 864 Size=9 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 870 Size=9 - Rooms={134=Room 134, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 946 Size=9 - Rooms={176=Room 176, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 973 Size=9 - Rooms={242=Room 242, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1003 Size=9 - Rooms={244=Room 244, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1014 Size=9 - Rooms={281=Room 281, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1091 Size=9 - Rooms={282=Room 282, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1176 Size=9 - Rooms={293=Room 293, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1198 Size=9 - Rooms={295=Room 295, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1241 Size=9 - Rooms={354=Room 354, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1449 Size=9 - Rooms={483=Room 483, size=25
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1784 Size=9 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1882 Size=9 - Rooms={484=Room 484, size=26
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1902 Size=9 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 5 Size=10 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 28 Size=10 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 151 Size=10 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 218 Size=10 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 228 Size=10 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 292 Size=10 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 338 Size=10 - Rooms={440=Room 440, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 378 Size=10 - Rooms={441=Room 441, size=28
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 389 Size=10 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 393 Size=10 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 581 Size=10 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 599 Size=10 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 618 Size=10 - Rooms={428=Room 428, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 660 Size=10 - Rooms={429=Room 429, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 755 Size=10 - Rooms={430=Room 430, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 772 Size=10 - Rooms={433=Room 433, size=29
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 961 Size=10 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 976 Size=10 - Rooms={25=Room 25, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 977 Size=10 - Rooms={35=Room 35, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 978 Size=10 - Rooms={36=Room 36, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1116 Size=10 - Rooms={40=Room 40, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1134 Size=10 - Rooms={51=Room 51, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1187 Size=10 - Rooms={59=Room 59, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1190 Size=10 - Rooms={60=Room 60, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1217 Size=10 - Rooms={61=Room 61, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1270 Size=10 - Rooms={62=Room 62, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1422 Size=10 - Rooms={63=Room 63, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1433 Size=10 - Rooms={64=Room 64, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1508 Size=10 - Rooms={65=Room 65, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1647 Size=10 - Rooms={66=Room 66, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1677 Size=10 - Rooms={67=Room 67, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1874 Size=10 - Rooms={68=Room 68, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 31 Size=11 - Rooms={75=Room 75, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 61 Size=11 - Rooms={82=Room 82, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 67 Size=11 - Rooms={83=Room 83, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 87 Size=11 - Rooms={84=Room 84, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 198 Size=11 - Rooms={89=Room 89, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 200 Size=11 - Rooms={113=Room 113, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 368 Size=11 - Rooms={114=Room 114, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 465 Size=11 - Rooms={132=Room 132, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 639 Size=11 - Rooms={138=Room 138, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1002 Size=11 - Rooms={164=Room 164, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1148 Size=11 - Rooms={172=Room 172, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1169 Size=11 - Rooms={173=Room 173, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1317 Size=11 - Rooms={219=Room 219, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1337 Size=11 - Rooms={220=Room 220, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1403 Size=11 - Rooms={226=Room 226, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1476 Size=11 - Rooms={227=Room 227, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1523 Size=11 - Rooms={231=Room 231, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1759 Size=11 - Rooms={240=Room 240, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 137 Size=12 - Rooms={259=Room 259, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 166 Size=12 - Rooms={260=Room 260, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 404 Size=12 - Rooms={261=Room 261, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 453 Size=12 - Rooms={273=Room 273, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 606 Size=12 - Rooms={276=Room 276, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 679 Size=12 - Rooms={296=Room 296, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 744 Size=12 - Rooms={351=Room 351, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 751 Size=12 - Rooms={364=Room 364, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 888 Size=12 - Rooms={378=Room 378, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 947 Size=12 - Rooms={387=Room 387, size=30
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 948 Size=12 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 971 Size=12 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1107 Size=12 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1188 Size=12 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1206 Size=12 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1251 Size=12 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1331 Size=12 - Rooms={57=Room 57, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1483 Size=12 - Rooms={85=Room 85, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1597 Size=12 - Rooms={94=Room 94, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1620 Size=12 - Rooms={96=Room 96, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1678 Size=12 - Rooms={147=Room 147, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1699 Size=12 - Rooms={159=Room 159, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 104 Size=13 - Rooms={181=Room 181, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 160 Size=13 - Rooms={182=Room 182, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 272 Size=13 - Rooms={318=Room 318, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 296 Size=13 - Rooms={359=Room 359, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 358 Size=13 - Rooms={445=Room 445, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 376 Size=13 - Rooms={446=Room 446, size=32
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 380 Size=13 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 498 Size=13 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 767 Size=13 - Rooms={39=Room 39, size=33
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 790 Size=13 - Rooms={120=Room 120, size=33
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 830 Size=13 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1121 Size=13 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1125 Size=13 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1145 Size=13 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1147 Size=13 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1151 Size=13 - Rooms={203=Room 203, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1203 Size=13 - Rooms={253=Room 253, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1653 Size=13 - Rooms={254=Room 254, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1812 Size=13 - Rooms={292=Room 292, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1834 Size=13 - Rooms={316=Room 316, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1847 Size=13 - Rooms={317=Room 317, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1905 Size=13 - Rooms={352=Room 352, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 82 Size=14 - Rooms={353=Room 353, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 85 Size=14 - Rooms={418=Room 418, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 153 Size=14 - Rooms={419=Room 419, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 156 Size=14 - Rooms={422=Room 422, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 277 Size=14 - Rooms={439=Room 439, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 322 Size=14 - Rooms={447=Room 447, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 640 Size=14 - Rooms={470=Room 470, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 768 Size=14 - Rooms={486=Room 486, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 868 Size=14 - Rooms={487=Room 487, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1017 Size=14 - Rooms={488=Room 488, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1212 Size=14 - Rooms={489=Room 489, size=35
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1233 Size=14 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1273 Size=14 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1446 Size=14 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1478 Size=14 - Rooms={41=Room 41, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1573 Size=14 - Rooms={151=Room 151, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1622 Size=14 - Rooms={152=Room 152, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1799 Size=14 - Rooms={183=Room 183, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1815 Size=14 - Rooms={188=Room 188, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 101 Size=15 - Rooms={208=Room 208, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 278 Size=15 - Rooms={217=Room 217, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 340 Size=15 - Rooms={218=Room 218, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 427 Size=15 - Rooms={223=Room 223, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 438 Size=15 - Rooms={241=Room 241, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 512 Size=15 - Rooms={243=Room 243, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 616 Size=15 - Rooms={249=Room 249, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 682 Size=15 - Rooms={250=Room 250, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 691 Size=15 - Rooms={307=Room 307, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 766 Size=15 - Rooms={382=Room 382, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 912 Size=15 - Rooms={394=Room 394, size=36
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 917 Size=15 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 921 Size=15 - Rooms={303=Room 303, size=37
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 928 Size=15 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 959 Size=15 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 967 Size=15 - Rooms={434=Room 434, size=38
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1135 Size=15 - Rooms={437=Room 437, size=38
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1167 Size=15 - Rooms={438=Room 438, size=38
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1185 Size=15 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1371 Size=15 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1451 Size=15 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1458 Size=15 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1459 Size=15 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1724 Size=15 - Rooms={93=Room 93, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1742 Size=15 - Rooms={98=Room 98, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1789 Size=15 - Rooms={99=Room 99, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 90 Size=16 - Rooms={106=Room 106, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 124 Size=16 - Rooms={118=Room 118, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 294 Size=16 - Rooms={174=Room 174, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 377 Size=16 - Rooms={215=Room 215, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 442 Size=16 - Rooms={274=Room 274, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 504 Size=16 - Rooms={288=Room 288, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 736 Size=16 - Rooms={299=Room 299, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1048 Size=16 - Rooms={356=Room 356, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1072 Size=16 - Rooms={372=Room 372, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1336 Size=16 - Rooms={392=Room 392, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1399 Size=16 - Rooms={395=Room 395, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1627 Size=16 - Rooms={396=Room 396, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1667 Size=16 - Rooms={397=Room 397, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1737 Size=16 - Rooms={400=Room 400, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1875 Size=16 - Rooms={401=Room 401, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 122 Size=17 - Rooms={402=Room 402, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 279 Size=17 - Rooms={403=Room 403, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 295 Size=17 - Rooms={404=Room 404, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 557 Size=17 - Rooms={405=Room 405, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 600 Size=17 - Rooms={406=Room 406, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 610 Size=17 - Rooms={407=Room 407, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 789 Size=17 - Rooms={408=Room 408, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1195 Size=17 - Rooms={409=Room 409, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1636 Size=17 - Rooms={410=Room 410, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1772 Size=17 - Rooms={413=Room 413, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1829 Size=17 - Rooms={414=Room 414, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 92 Size=18 - Rooms={415=Room 415, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 115 Size=18 - Rooms={454=Room 454, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 202 Size=18 - Rooms={482=Room 482, size=40
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 533 Size=18 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 786 Size=18 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 988 Size=18 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1023 Size=18 - Rooms={148=Room 148, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1031 Size=18 - Rooms={191=Room 191, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1245 Size=18 - Rooms={285=Room 285, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1481 Size=18 - Rooms={355=Room 355, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1590 Size=18 - Rooms={361=Room 361, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1755 Size=18 - Rooms={425=Room 425, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 182 Size=19 - Rooms={456=Room 456, size=42
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 201 Size=19 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 451 Size=19 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 520 Size=19 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 758 Size=19 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 831 Size=19 - Rooms={264=Room 264, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1110 Size=19 - Rooms={360=Room 360, size=44
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1278 Size=19 - Rooms={44=Room 44, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1323 Size=19 - Rooms={92=Room 92, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1450 Size=19 - Rooms={97=Room 97, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1485 Size=19 - Rooms={110=Room 110, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1763 Size=19 - Rooms={187=Room 187, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1840 Size=19 - Rooms={339=Room 339, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1846 Size=19 - Rooms={366=Room 366, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 545 Size=20 - Rooms={367=Room 367, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 700 Size=20 - Rooms={368=Room 368, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1183 Size=20 - Rooms={453=Room 453, size=45
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1454 Size=20 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1521 Size=20 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1861 Size=20 - Rooms={300=Room 300, size=46
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 83 Size=21 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 95 Size=21 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 108 Size=21 - Rooms={100=Room 100, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 725 Size=21 - Rooms={195=Room 195, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 984 Size=21 - Rooms={209=Room 209, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 986 Size=21 - Rooms={210=Room 210, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1130 Size=21 - Rooms={269=Room 269, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1143 Size=21 - Rooms={270=Room 270, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1225 Size=21 - Rooms={384=Room 384, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1400 Size=21 - Rooms={416=Room 416, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1514 Size=21 - Rooms={457=Room 457, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1518 Size=21 - Rooms={458=Room 458, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1524 Size=21 - Rooms={459=Room 459, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1730 Size=21 - Rooms={460=Room 460, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1761 Size=21 - Rooms={461=Room 461, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 177 Size=22 - Rooms={462=Room 462, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 329 Size=22 - Rooms={463=Room 463, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 446 Size=22 - Rooms={464=Room 464, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 482 Size=22 - Rooms={465=Room 465, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1026 Size=22 - Rooms={466=Room 466, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1289 Size=22 - Rooms={467=Room 467, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1511 Size=22 - Rooms={468=Room 468, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1767 Size=22 - Rooms={469=Room 469, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 53 Size=23 - Rooms={471=Room 471, size=48
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 174 Size=23 - Rooms={58=Room 58, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 490 Size=23 - Rooms={70=Room 70, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 943 Size=23 - Rooms={136=Room 136, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1570 Size=23 - Rooms={184=Room 184, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1701 Size=23 - Rooms={196=Room 196, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1816 Size=23 - Rooms={197=Room 197, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 186 Size=24 - Rooms={201=Room 201, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 439 Size=24 - Rooms={202=Room 202, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 459 Size=24 - Rooms={233=Room 233, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 462 Size=24 - Rooms={448=Room 448, size=49
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 867 Size=24 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 965 Size=24 - Rooms={229=Room 229, size=50
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 996 Size=24 - Rooms={265=Room 265, size=50
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1222 Size=24 - Rooms={374=Room 374, size=50
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1420 Size=24 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1517 Size=24 - Rooms={222=Room 222, size=51
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1741 Size=24 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1783 Size=24 - Rooms={206=Room 206, size=53
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 179 Size=25 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 187 Size=25 - Rooms={262=Room 262, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 991 Size=25 - Rooms={263=Room 263, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 998 Size=25 - Rooms={294=Room 294, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1000 Size=25 - Rooms={304=Room 304, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1574 Size=25 - Rooms={365=Room 365, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1751 Size=25 - Rooms={475=Room 475, size=54
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 27 Size=26 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 188 Size=26 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 407 Size=26 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 657 Size=26 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 750 Size=26 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 981 Size=26 - Rooms={139=Room 139, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 985 Size=26 - Rooms={190=Room 190, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1106 Size=26 - Rooms={237=Room 237, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1347 Size=26 - Rooms={245=Room 245, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 80 Size=27 - Rooms={252=Room 252, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 369 Size=27 - Rooms={298=Room 298, size=60
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1864 Size=27 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 173 Size=28 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 193 Size=28 - Rooms={266=Room 266, size=63
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 994 Size=28 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1843 Size=28 - Rooms={380=Room 380, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 285 Size=29 - Rooms={385=Room 385, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 982 Size=29 - Rooms={388=Room 388, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1615 Size=29 - Rooms={389=Room 389, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 214 Size=30 - Rooms={476=Room 476, size=64
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 549 Size=30 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1053 Size=30 - Rooms={149=Room 149, size=66
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1335 Size=30 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1396 Size=30 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1490 Size=30 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1893 Size=30 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 811 Size=31 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 813 Size=32 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 841 Size=32 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1305 Size=32 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 575 Size=33 - Rooms={111=Room 111, size=75
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 670 Size=33 - Rooms={444=Room 444, size=75
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1617 Size=33 - Rooms={478=Room 478, size=76
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 727 Size=34 - Rooms={272=Room 272, size=78
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1639 Size=34 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 624 Size=35 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1813 Size=35 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 114 Size=38 - Rooms={255=Room 255, size=84
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 564 Size=38 - Rooms={256=Room 256, size=84
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1243 Size=38 - Rooms={279=Room 279, size=84
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1609 Size=38 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1718 Size=39 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1232 Size=40 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1387 Size=42 - Rooms={426=Room 426, size=90
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1606 Size=42 - Rooms={485=Room 485, size=91
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 15 Size=43 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 582 Size=43 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1221 Size=43 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 926 Size=44 - Rooms={87=Room 87, size=100
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 274 Size=46 - Rooms={213=Room 213, size=100
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 496 Size=46 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 497 Size=46 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 514 Size=47 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1154 Size=47 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1215 Size=47 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 320 Size=49 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 308 Size=52 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 747 Size=54 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 284 Size=55 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 266 Size=56 - Rooms={479=Room 479, size=155
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 934 Size=56 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 571 Size=59 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 651 Size=59 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1155 Size=59 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 849 Size=62 - Rooms={315=Room 315, size=180
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 126 Size=63 - Rooms={234=Room 234, size=189
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 65 Size=64 - Rooms={247=Room 247, size=196
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 417 Size=66 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 483 Size=68 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1806 Size=70 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 265 Size=74 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 441 Size=76 - Rooms={358=Room 358, size=276
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 268 Size=90 - Rooms={123=Room 123, size=300
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 306 Size=97 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 920 Size=107 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1083 Size=140 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-12 - Period 1 - Exam 1173 Size=148 - Rooms={108=Room 108, size=470
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 72 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 398 Size=72 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1124 Size=73 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1276 Size=74 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1129 Size=78 - Rooms={272=Room 272, size=78
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1171 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1405 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 791 Size=80 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1418 Size=80 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1497 Size=80 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1665 Size=80 - Rooms={255=Room 255, size=84
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1693 Size=80 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1777 Size=80 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 98 Size=81 - Rooms={256=Room 256, size=84
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1495 Size=82 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1722 Size=83 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 287 Size=84 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 939 Size=84 - Rooms={279=Room 279, size=84
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1046 Size=85 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1506 Size=86 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1887 Size=87 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 367 Size=88 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 336 Size=89 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1168 Size=89 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1769 Size=90 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 818 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 676 Size=95 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1369 Size=95 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1700 Size=98 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 894 Size=99 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1389 Size=99 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 354 Size=100 - Rooms={87=Room 87, size=100
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 353 Size=101 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 359 Size=103 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1598 Size=103 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1286 Size=104 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1035 Size=105 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1386 Size=109 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1721 Size=113 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 626 Size=114 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1553 Size=114 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 666 Size=115 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 840 Size=115 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1651 Size=117 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 135 Size=119 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 732 Size=119 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 859 Size=120 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1719 Size=120 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1525 Size=121 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 337 Size=131 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 749 Size=134 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1526 Size=136 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1582 Size=136 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 233 Size=138 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 1417 Size=139 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 832 Size=140 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1411 Size=142 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1426 Size=147 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1625 Size=156 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 706 Size=159 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 885 Size=171 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 343 Size=172 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1866 Size=196 - Rooms={247=Room 247, size=196
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1360 Size=212 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1673 Size=214 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 906 Size=219 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 848 Size=228 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 1429 Size=237 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-12 - Period 3 - Exam 833 Size=266 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1356 Size=267 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 225 Size=274 - Rooms={358=Room 358, size=276
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1342 Size=288 - Rooms={123=Room 123, size=300
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 1703 Size=289 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-12 - Period 2 - Exam 363 Size=350 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-12 - Period 5 - Exam 1367 Size=355 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 270 Size=593 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 418 Size=761 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+}
+Booking:  Date 2017-12-12 - Period 4 - Exam 66 Size=914 - Rooms={23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 42=Room 42, size=46
+, 43=Room 43, size=20
+, 44=Room 44, size=45
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 492 Size=24 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1064 Size=28 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1629 Size=28 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 875 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1850 Size=31 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1559 Size=32 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1112 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1885 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1050 Size=34 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1333 Size=34 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1839 Size=34 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 690 Size=35 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1895 Size=35 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 37 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 391 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 925 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1133 Size=36 - Rooms={41=Room 41, size=36
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1480 Size=38 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1828 Size=38 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1770 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 211 Size=40 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 256 Size=40 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 664 Size=40 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1407 Size=40 - Rooms={93=Room 93, size=40
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 781 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1088 Size=41 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 644 Size=42 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 719 Size=42 - Rooms={148=Room 148, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1238 Size=42 - Rooms={191=Room 191, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1749 Size=42 - Rooms={285=Room 285, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1890 Size=42 - Rooms={355=Room 355, size=42
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 229 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 93 Size=44 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 395 Size=44 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 538 Size=44 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 810 Size=44 - Rooms={264=Room 264, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1152 Size=44 - Rooms={360=Room 360, size=44
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1404 Size=44 - Rooms={44=Room 44, size=45
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1488 Size=44 - Rooms={92=Room 92, size=45
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1439 Size=45 - Rooms={97=Room 97, size=45
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1666 Size=45 - Rooms={110=Room 110, size=45
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 437 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 692 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 858 Size=46 - Rooms={300=Room 300, size=46
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1329 Size=46 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 481 Size=47 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 774 Size=47 - Rooms={100=Room 100, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 930 Size=47 - Rooms={195=Room 195, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1207 Size=47 - Rooms={209=Room 209, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1036 Size=48 - Rooms={210=Room 210, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1144 Size=48 - Rooms={269=Room 269, size=48
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 850 Size=49 - Rooms={58=Room 58, size=49
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1406 Size=49 - Rooms={70=Room 70, size=49
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1199 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1297 Size=50 - Rooms={229=Room 229, size=50
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 843 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1492 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1247 Size=56 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 138 Size=57 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 702 Size=58 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1845 Size=58 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 226 Size=64 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 999 Size=66 - Rooms={149=Room 149, size=66
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1298 Size=66 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1727 Size=66 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1137 Size=77 - Rooms={272=Room 272, size=78
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 357 Size=80 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 542 Size=81 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1032 Size=82 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1686 Size=85 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 711 Size=90 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1545 Size=93 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1675 Size=93 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 806 Size=96 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1376 Size=112 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 366 Size=118 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 764 Size=118 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 797 Size=118 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 435 Size=132 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 303 Size=141 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 907 Size=155 - Rooms={479=Room 479, size=155
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 1253 Size=158 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 724 Size=160 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-13 - Period 6 - Exam 477 Size=835 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1409 Size=97 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1494 Size=105 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 254 Size=106 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 1095 Size=111 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1779 Size=114 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1516 Size=116 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1695 Size=116 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 471 Size=119 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 360 Size=123 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1612 Size=124 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 1707 Size=129 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 1105 Size=131 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1372 Size=132 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 1009 Size=136 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 1013 Size=137 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 560 Size=138 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1729 Size=141 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 938 Size=143 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1161 Size=143 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 713 Size=144 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1388 Size=144 - Rooms={479=Room 479, size=155
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1685 Size=144 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1744 Size=144 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1441 Size=146 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1082 Size=147 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 892 Size=148 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1005 Size=151 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 633 Size=156 - Rooms={315=Room 315, size=180
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 1160 Size=160 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 863 Size=161 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 1193 Size=162 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 365 Size=165 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 562 Size=170 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 792 Size=180 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 714 Size=196 - Rooms={247=Room 247, size=196
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 1561 Size=203 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 16 Size=207 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 89 Size=210 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 795 Size=213 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 100 Size=214 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-13 - Period 10 - Exam 623 Size=230 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-13 - Period 9 - Exam 1872 Size=254 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 1366 Size=323 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 480 Size=372 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-13 - Period 7 - Exam 901 Size=497 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-13 - Period 8 - Exam 821 Size=1320 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 42=Room 42, size=46
+, 43=Room 43, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 429 Size=5 - Rooms={350=Room 350, size=5
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1267 Size=5 - Rooms={309=Room 309, size=6
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1504 Size=5 - Rooms={126=Room 126, size=7
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 952 Size=6 - Rooms={442=Room 442, size=7
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1681 Size=6 - Rooms={287=Room 287, size=8
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 717 Size=7 - Rooms={474=Room 474, size=8
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1033 Size=7 - Rooms={6=Room 6, size=10
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1191 Size=7 - Rooms={7=Room 7, size=10
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1311 Size=7 - Rooms={167=Room 167, size=10
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 34 Size=8 - Rooms={490=Room 490, size=11
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 71 Size=8 - Rooms={50=Room 50, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 210 Size=8 - Rooms={54=Room 54, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 217 Size=8 - Rooms={116=Room 116, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 242 Size=8 - Rooms={121=Room 121, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 733 Size=8 - Rooms={180=Room 180, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 975 Size=8 - Rooms={319=Room 319, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1468 Size=8 - Rooms={336=Room 336, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1489 Size=8 - Rooms={369=Room 369, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1904 Size=8 - Rooms={375=Room 375, size=12
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 158 Size=9 - Rooms={312=Room 312, size=13
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 466 Size=9 - Rooms={11=Room 11, size=14
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 554 Size=9 - Rooms={91=Room 91, size=14
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 588 Size=9 - Rooms={325=Room 325, size=14
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 605 Size=9 - Rooms={48=Room 48, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 609 Size=9 - Rooms={103=Room 103, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 872 Size=9 - Rooms={221=Room 221, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1109 Size=9 - Rooms={331=Room 331, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1817 Size=9 - Rooms={337=Room 337, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1903 Size=9 - Rooms={338=Room 338, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 140 Size=10 - Rooms={370=Room 370, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 753 Size=10 - Rooms={390=Room 390, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1421 Size=10 - Rooms={480=Room 480, size=15
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1430 Size=10 - Rooms={10=Room 10, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1756 Size=10 - Rooms={19=Room 19, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1807 Size=10 - Rooms={90=Room 90, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 216 Size=11 - Rooms={109=Room 109, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 770 Size=11 - Rooms={135=Room 135, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 964 Size=11 - Rooms={175=Room 175, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1077 Size=11 - Rooms={278=Room 278, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1280 Size=11 - Rooms={311=Room 311, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1462 Size=11 - Rooms={321=Room 321, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1592 Size=11 - Rooms={322=Room 322, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1679 Size=11 - Rooms={323=Room 323, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1723 Size=11 - Rooms={324=Room 324, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 23 Size=12 - Rooms={334=Room 334, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 128 Size=12 - Rooms={335=Room 335, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 162 Size=12 - Rooms={341=Room 341, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 282 Size=12 - Rooms={342=Room 342, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 836 Size=12 - Rooms={343=Room 343, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 919 Size=12 - Rooms={345=Room 345, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1063 Size=12 - Rooms={346=Room 346, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1142 Size=12 - Rooms={376=Room 376, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1204 Size=12 - Rooms={435=Room 435, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1213 Size=12 - Rooms={436=Room 436, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1440 Size=12 - Rooms={473=Room 473, size=16
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1632 Size=12 - Rooms={49=Room 49, size=17
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 705 Size=13 - Rooms={347=Room 347, size=17
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 869 Size=13 - Rooms={349=Room 349, size=17
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1025 Size=13 - Rooms={29=Room 29, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1218 Size=13 - Rooms={30=Room 30, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1263 Size=13 - Rooms={55=Room 55, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1293 Size=13 - Rooms={115=Room 115, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1808 Size=13 - Rooms={225=Room 225, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1888 Size=13 - Rooms={313=Room 313, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1898 Size=13 - Rooms={328=Room 328, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1899 Size=13 - Rooms={329=Room 329, size=18
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 281 Size=14 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 387 Size=14 - Rooms={4=Room 4, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 521 Size=14 - Rooms={20=Room 20, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 614 Size=14 - Rooms={28=Room 28, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 737 Size=14 - Rooms={43=Room 43, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 788 Size=14 - Rooms={52=Room 52, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1060 Size=14 - Rooms={53=Room 53, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1065 Size=14 - Rooms={71=Room 71, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1073 Size=14 - Rooms={72=Room 72, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1175 Size=14 - Rooms={73=Room 73, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1226 Size=14 - Rooms={76=Room 76, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1272 Size=14 - Rooms={122=Room 122, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1358 Size=14 - Rooms={133=Room 133, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1453 Size=14 - Rooms={141=Room 141, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1463 Size=14 - Rooms={153=Room 153, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1465 Size=14 - Rooms={154=Room 154, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 155 Size=15 - Rooms={155=Room 155, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 318 Size=15 - Rooms={156=Room 156, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 371 Size=15 - Rooms={157=Room 157, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 425 Size=15 - Rooms={158=Room 158, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 574 Size=15 - Rooms={160=Room 160, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 619 Size=15 - Rooms={161=Room 161, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 630 Size=15 - Rooms={169=Room 169, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 715 Size=15 - Rooms={192=Room 192, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 854 Size=15 - Rooms={207=Room 207, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1004 Size=15 - Rooms={257=Room 257, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1010 Size=15 - Rooms={277=Room 277, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1086 Size=15 - Rooms={280=Room 280, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1339 Size=15 - Rooms={301=Room 301, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1432 Size=15 - Rooms={310=Room 310, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1572 Size=15 - Rooms={314=Room 314, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1655 Size=15 - Rooms={320=Room 320, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1710 Size=15 - Rooms={330=Room 330, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1726 Size=15 - Rooms={373=Room 373, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1873 Size=15 - Rooms={421=Room 421, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1894 Size=15 - Rooms={451=Room 451, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 32 Size=16 - Rooms={455=Room 455, size=20
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 96 Size=16 - Rooms={74=Room 74, size=21
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 105 Size=16 - Rooms={340=Room 340, size=21
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 109 Size=16 - Rooms={344=Room 344, size=21
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 143 Size=16 - Rooms={178=Room 178, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 776 Size=16 - Rooms={179=Room 179, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1096 Size=16 - Rooms={275=Room 275, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1192 Size=16 - Rooms={326=Room 326, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1355 Size=16 - Rooms={327=Room 327, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1395 Size=16 - Rooms={332=Room 332, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1452 Size=16 - Rooms={333=Room 333, size=22
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1826 Size=16 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 412 Size=17 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 544 Size=17 - Rooms={452=Room 452, size=23
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 782 Size=17 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 933 Size=17 - Rooms={78=Room 78, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1101 Size=17 - Rooms={79=Room 79, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1236 Size=17 - Rooms={80=Room 80, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1602 Size=17 - Rooms={81=Room 81, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1732 Size=17 - Rooms={86=Room 86, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1746 Size=17 - Rooms={101=Room 101, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 81 Size=18 - Rooms={104=Room 104, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 111 Size=18 - Rooms={127=Room 127, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 394 Size=18 - Rooms={142=Room 142, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 472 Size=18 - Rooms={166=Room 166, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 526 Size=18 - Rooms={168=Room 168, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 874 Size=18 - Rooms={170=Room 170, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1018 Size=18 - Rooms={185=Room 185, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1242 Size=18 - Rooms={186=Room 186, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1320 Size=18 - Rooms={193=Room 193, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1510 Size=18 - Rooms={216=Room 216, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1551 Size=18 - Rooms={224=Room 224, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1670 Size=18 - Rooms={228=Room 228, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1863 Size=18 - Rooms={236=Room 236, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 99 Size=19 - Rooms={239=Room 239, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 771 Size=19 - Rooms={289=Room 289, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 826 Size=19 - Rooms={290=Room 290, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 927 Size=19 - Rooms={302=Room 302, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1022 Size=19 - Rooms={306=Room 306, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1079 Size=19 - Rooms={377=Room 377, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1319 Size=19 - Rooms={393=Room 393, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1533 Size=19 - Rooms={398=Room 398, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1646 Size=19 - Rooms={399=Room 399, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 199 Size=20 - Rooms={412=Room 412, size=24
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 328 Size=20 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 531 Size=20 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 756 Size=20 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 932 Size=20 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 954 Size=20 - Rooms={134=Room 134, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1119 Size=20 - Rooms={176=Room 176, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1394 Size=20 - Rooms={242=Room 242, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1758 Size=20 - Rooms={244=Room 244, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1871 Size=20 - Rooms={281=Room 281, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 118 Size=21 - Rooms={282=Room 282, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 370 Size=21 - Rooms={293=Room 293, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1827 Size=21 - Rooms={295=Room 295, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 10 Size=22 - Rooms={354=Room 354, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 276 Size=22 - Rooms={483=Room 483, size=25
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 601 Size=22 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 647 Size=22 - Rooms={484=Room 484, size=26
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 653 Size=22 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 742 Size=22 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 816 Size=22 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1227 Size=22 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1401 Size=22 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1464 Size=22 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1591 Size=22 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1760 Size=22 - Rooms={440=Room 440, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 317 Size=23 - Rooms={441=Room 441, size=28
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1179 Size=23 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1324 Size=23 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1346 Size=23 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1425 Size=23 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1566 Size=23 - Rooms={428=Room 428, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1771 Size=23 - Rooms={429=Room 429, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1819 Size=23 - Rooms={430=Room 430, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 33 Size=24 - Rooms={433=Room 433, size=29
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 175 Size=24 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 176 Size=24 - Rooms={25=Room 25, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 183 Size=24 - Rooms={35=Room 35, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 314 Size=24 - Rooms={36=Room 36, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 332 Size=24 - Rooms={40=Room 40, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 505 Size=24 - Rooms={51=Room 51, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 800 Size=24 - Rooms={59=Room 59, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 902 Size=24 - Rooms={60=Room 60, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 903 Size=24 - Rooms={61=Room 61, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 957 Size=24 - Rooms={62=Room 62, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 990 Size=24 - Rooms={63=Room 63, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1821 Size=24 - Rooms={64=Room 64, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 267 Size=25 - Rooms={65=Room 65, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 422 Size=25 - Rooms={66=Room 66, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 434 Size=25 - Rooms={67=Room 67, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 746 Size=25 - Rooms={68=Room 68, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1146 Size=25 - Rooms={75=Room 75, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1330 Size=25 - Rooms={82=Room 82, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1423 Size=25 - Rooms={83=Room 83, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1565 Size=25 - Rooms={84=Room 84, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1867 Size=25 - Rooms={89=Room 89, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 184 Size=26 - Rooms={113=Room 113, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 613 Size=26 - Rooms={114=Room 114, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 817 Size=26 - Rooms={132=Room 132, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 827 Size=26 - Rooms={138=Room 138, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1008 Size=26 - Rooms={164=Room 164, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1093 Size=26 - Rooms={172=Room 172, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1100 Size=26 - Rooms={173=Room 173, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1308 Size=26 - Rooms={219=Room 219, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 29 Size=27 - Rooms={220=Room 220, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 39 Size=27 - Rooms={226=Room 226, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 196 Size=27 - Rooms={227=Room 227, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 992 Size=27 - Rooms={231=Room 231, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1200 Size=27 - Rooms={240=Room 240, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1235 Size=27 - Rooms={259=Room 259, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1731 Size=27 - Rooms={260=Room 260, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 43 Size=28 - Rooms={261=Room 261, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 189 Size=28 - Rooms={273=Room 273, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 190 Size=28 - Rooms={276=Room 276, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 513 Size=28 - Rooms={296=Room 296, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 983 Size=28 - Rooms={351=Room 351, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1603 Size=28 - Rooms={364=Room 364, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1535 Size=29 - Rooms={378=Room 378, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1838 Size=29 - Rooms={387=Room 387, size=30
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 127 Size=30 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 172 Size=30 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 931 Size=30 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1234 Size=30 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1580 Size=30 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 41 Size=31 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 300 Size=31 - Rooms={57=Room 57, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 373 Size=31 - Rooms={85=Room 85, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 461 Size=31 - Rooms={94=Room 94, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 522 Size=31 - Rooms={96=Room 96, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 748 Size=31 - Rooms={147=Room 147, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 773 Size=31 - Rooms={159=Room 159, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1249 Size=31 - Rooms={181=Room 181, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 30 Size=32 - Rooms={182=Room 182, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 112 Size=32 - Rooms={318=Room 318, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1113 Size=32 - Rooms={359=Room 359, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1343 Size=32 - Rooms={445=Room 445, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1412 Size=32 - Rooms={446=Room 446, size=32
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 19 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 550 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 878 Size=33 - Rooms={39=Room 39, size=33
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 889 Size=33 - Rooms={120=Room 120, size=33
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1642 Size=33 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 642 Size=34 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1069 Size=34 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1350 Size=34 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1536 Size=35 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1648 Size=35 - Rooms={203=Room 203, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1705 Size=35 - Rooms={253=Room 253, size=35
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 443 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 548 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1302 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1436 Size=36 - Rooms={41=Room 41, size=36
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1913 Size=36 - Rooms={151=Room 151, size=36
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1353 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 54 Size=38 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1549 Size=38 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 58 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 968 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1416 Size=39 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1589 Size=39 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 812 Size=40 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 956 Size=40 - Rooms={93=Room 93, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1539 Size=40 - Rooms={98=Room 98, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1854 Size=40 - Rooms={99=Room 99, size=40
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 592 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 325 Size=42 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1057 Size=42 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1809 Size=42 - Rooms={148=Room 148, size=42
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 577 Size=44 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 330 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1381 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 940 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1802 Size=47 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1275 Size=49 - Rooms={58=Room 58, size=49
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1153 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 52 Size=53 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 632 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 752 Size=54 - Rooms={262=Room 262, size=54
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 321 Size=56 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1363 Size=57 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1614 Size=57 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1797 Size=59 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1889 Size=59 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1271 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 707 Size=62 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1805 Size=62 - Rooms={266=Room 266, size=63
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 146 Size=63 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1028 Size=68 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1776 Size=72 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 258 Size=73 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 419 Size=75 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1610 Size=84 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 866 Size=97 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 269 Size=107 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 141 Size=134 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1588 Size=140 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 1486 Size=161 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-14 - Period 11 - Exam 687 Size=176 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 893 Size=137 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 73 Size=147 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 1515 Size=152 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 1076 Size=159 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 1 Size=166 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 1084 Size=172 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-14 - Period 15 - Exam 1098 Size=174 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 1466 Size=174 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 1658 Size=175 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 677 Size=179 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-14 - Period 15 - Exam 147 Size=180 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 1680 Size=180 - Rooms={315=Room 315, size=180
+}
+Booking:  Date 2017-12-14 - Period 15 - Exam 45 Size=181 - Rooms={234=Room 234, size=189
+}
+Booking:  Date 2017-12-14 - Period 15 - Exam 929 Size=193 - Rooms={247=Room 247, size=196
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 4 Size=203 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 351 Size=213 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 1605 Size=221 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 469 Size=229 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-14 - Period 15 - Exam 1318 Size=229 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 344 Size=231 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 1471 Size=247 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 1040 Size=255 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-14 - Period 14 - Exam 341 Size=257 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-14 - Period 13 - Exam 951 Size=419 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-14 - Period 12 - Exam 1375 Size=924 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1640 Size=25 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 486 Size=26 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 478 Size=29 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 49 Size=35 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1568 Size=35 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1792 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 551 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1068 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 62 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1197 Size=41 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1219 Size=41 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1531 Size=41 - Rooms={148=Room 148, size=42
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 345 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 515 Size=43 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1557 Size=43 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1139 Size=44 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 759 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 794 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1056 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1530 Size=47 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 650 Size=48 - Rooms={100=Room 100, size=48
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1328 Size=48 - Rooms={195=Room 195, size=48
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 237 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 331 Size=51 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 879 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 8 Size=56 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 75 Size=57 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 565 Size=57 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1159 Size=57 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 950 Size=58 - Rooms={139=Room 139, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 762 Size=60 - Rooms={190=Room 190, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1692 Size=60 - Rooms={237=Room 237, size=60
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 20 Size=63 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 591 Size=63 - Rooms={266=Room 266, size=63
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 654 Size=67 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1362 Size=68 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 681 Size=69 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1713 Size=69 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 881 Size=71 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1496 Size=72 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1858 Size=72 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1528 Size=73 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 97 Size=85 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1089 Size=88 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1290 Size=88 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1374 Size=89 - Rooms={426=Room 426, size=90
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 675 Size=91 - Rooms={485=Room 485, size=91
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 275 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1314 Size=92 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1711 Size=104 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1674 Size=106 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 506 Size=109 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1611 Size=115 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 88 Size=116 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1006 Size=121 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1836 Size=123 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 518 Size=127 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1368 Size=129 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 823 Size=141 - Rooms={479=Room 479, size=155
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 540 Size=150 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 1500 Size=159 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 22 Size=177 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 311 Size=222 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 820 Size=1033 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-15 - Period 16 - Exam 793 Size=1169 - Rooms={1=Room 1, size=27
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 43=Room 43, size=20
+, 44=Room 44, size=45
+, 46=Room 46, size=82
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+, 55=Room 55, size=18
+}
+Booking:  Date 2017-12-15 - Period 17 - Exam 1383 Size=183 - Rooms={234=Room 234, size=189
+}
+Booking:  Date 2017-12-15 - Period 18 - Exam 839 Size=188 - Rooms={234=Room 234, size=189
+}
+Booking:  Date 2017-12-15 - Period 17 - Exam 1564 Size=205 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-15 - Period 18 - Exam 578 Size=214 - Rooms={291=Room 291, size=220
+}
+Booking:  Date 2017-12-15 - Period 18 - Exam 1265 Size=219 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-15 - Period 17 - Exam 517 Size=227 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-15 - Period 19 - Exam 1041 Size=257 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-15 - Period 20 - Exam 1074 Size=258 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-15 - Period 17 - Exam 432 Size=263 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-15 - Period 19 - Exam 637 Size=312 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-15 - Period 20 - Exam 1624 Size=316 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-15 - Period 20 - Exam 346 Size=323 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-15 - Period 19 - Exam 1860 Size=411 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-15 - Period 20 - Exam 819 Size=528 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-15 - Period 18 - Exam 436 Size=775 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-15 - Period 20 - Exam 909 Size=1329 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 22=Room 22, size=120
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+}
+Booking:  Date 2017-12-15 - Period 17 - Exam 304 Size=1390 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 22=Room 22, size=120
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1359 Size=5 - Rooms={350=Room 350, size=5
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1857 Size=7 - Rooms={126=Room 126, size=7
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 60 Size=9 - Rooms={6=Room 6, size=10
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 555 Size=9 - Rooms={7=Room 7, size=10
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 695 Size=10 - Rooms={167=Room 167, size=10
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1043 Size=10 - Rooms={490=Room 490, size=11
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1283 Size=10 - Rooms={50=Room 50, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1908 Size=10 - Rooms={54=Room 54, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 283 Size=11 - Rooms={116=Room 116, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 754 Size=11 - Rooms={121=Room 121, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 339 Size=12 - Rooms={180=Room 180, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 553 Size=12 - Rooms={319=Room 319, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1001 Size=12 - Rooms={336=Room 336, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1189 Size=12 - Rooms={369=Room 369, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1256 Size=12 - Rooms={375=Room 375, size=12
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1431 Size=12 - Rooms={312=Room 312, size=13
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 463 Size=13 - Rooms={11=Room 11, size=14
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 594 Size=13 - Rooms={91=Room 91, size=14
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 607 Size=13 - Rooms={325=Room 325, size=14
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1051 Size=13 - Rooms={48=Room 48, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1102 Size=13 - Rooms={103=Room 103, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1734 Size=13 - Rooms={221=Room 221, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 6 Size=14 - Rooms={331=Room 331, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 167 Size=14 - Rooms={337=Room 337, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 334 Size=14 - Rooms={338=Room 338, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 570 Size=14 - Rooms={370=Room 370, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 761 Size=14 - Rooms={390=Room 390, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 871 Size=14 - Rooms={480=Room 480, size=15
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1172 Size=14 - Rooms={10=Room 10, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1467 Size=14 - Rooms={19=Room 19, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 165 Size=15 - Rooms={90=Room 90, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 280 Size=15 - Rooms={109=Room 109, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 390 Size=15 - Rooms={135=Room 135, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 470 Size=15 - Rooms={175=Room 175, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 716 Size=15 - Rooms={278=Room 278, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 775 Size=15 - Rooms={311=Room 311, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 857 Size=15 - Rooms={321=Room 321, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1016 Size=15 - Rooms={322=Room 322, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1059 Size=15 - Rooms={323=Room 323, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1081 Size=15 - Rooms={324=Room 324, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1542 Size=15 - Rooms={334=Room 334, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1900 Size=15 - Rooms={335=Room 335, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 403 Size=16 - Rooms={341=Room 341, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 493 Size=16 - Rooms={342=Room 342, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 763 Size=16 - Rooms={343=Room 343, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 815 Size=16 - Rooms={345=Room 345, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 835 Size=16 - Rooms={346=Room 346, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 860 Size=16 - Rooms={376=Room 376, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 974 Size=16 - Rooms={435=Room 435, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1066 Size=16 - Rooms={436=Room 436, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1637 Size=16 - Rooms={473=Room 473, size=16
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 401 Size=17 - Rooms={49=Room 49, size=17
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 556 Size=17 - Rooms={347=Room 347, size=17
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 579 Size=17 - Rooms={349=Room 349, size=17
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 659 Size=17 - Rooms={29=Room 29, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 669 Size=17 - Rooms={30=Room 30, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 898 Size=17 - Rooms={55=Room 55, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1038 Size=17 - Rooms={115=Room 115, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1284 Size=17 - Rooms={225=Room 225, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1352 Size=17 - Rooms={313=Room 313, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 223 Size=18 - Rooms={328=Room 328, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 667 Size=18 - Rooms={329=Room 329, size=18
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1186 Size=18 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1194 Size=18 - Rooms={4=Room 4, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1239 Size=18 - Rooms={20=Room 20, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1254 Size=18 - Rooms={28=Room 28, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1261 Size=18 - Rooms={43=Room 43, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1569 Size=18 - Rooms={52=Room 52, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1621 Size=18 - Rooms={53=Room 53, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1886 Size=18 - Rooms={71=Room 71, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 25 Size=19 - Rooms={72=Room 72, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 63 Size=19 - Rooms={73=Room 73, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1182 Size=19 - Rooms={76=Room 76, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1507 Size=19 - Rooms={122=Room 122, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 243 Size=20 - Rooms={133=Room 133, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 289 Size=20 - Rooms={141=Room 141, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 537 Size=20 - Rooms={153=Room 153, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 851 Size=20 - Rooms={154=Room 154, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 883 Size=20 - Rooms={155=Room 155, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 916 Size=20 - Rooms={156=Room 156, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1097 Size=20 - Rooms={157=Room 157, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1118 Size=20 - Rooms={158=Room 158, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1393 Size=20 - Rooms={160=Room 160, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1563 Size=20 - Rooms={161=Room 161, size=20
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 381 Size=21 - Rooms={74=Room 74, size=21
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 697 Size=21 - Rooms={340=Room 340, size=21
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 778 Size=21 - Rooms={344=Room 344, size=21
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 915 Size=21 - Rooms={178=Room 178, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 918 Size=21 - Rooms={179=Room 179, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 963 Size=21 - Rooms={275=Room 275, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 972 Size=21 - Rooms={326=Room 326, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1628 Size=21 - Rooms={327=Room 327, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1738 Size=21 - Rooms={332=Room 332, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1879 Size=21 - Rooms={333=Room 333, size=22
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 784 Size=22 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 803 Size=22 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1103 Size=22 - Rooms={452=Room 452, size=23
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1348 Size=22 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1428 Size=22 - Rooms={78=Room 78, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1765 Size=22 - Rooms={79=Room 79, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 454 Size=23 - Rooms={80=Room 80, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 479 Size=23 - Rooms={81=Room 81, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 596 Size=23 - Rooms={86=Room 86, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 598 Size=23 - Rooms={101=Room 101, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 802 Size=23 - Rooms={104=Room 104, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 56 Size=24 - Rooms={127=Room 127, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 230 Size=24 - Rooms={142=Room 142, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 568 Size=24 - Rooms={166=Room 166, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1030 Size=24 - Rooms={168=Room 168, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1576 Size=24 - Rooms={170=Room 170, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1618 Size=24 - Rooms={185=Room 185, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1748 Size=24 - Rooms={186=Room 186, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1897 Size=24 - Rooms={193=Room 193, size=24
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 458 Size=25 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 787 Size=25 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1303 Size=25 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1668 Size=25 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1672 Size=25 - Rooms={134=Room 134, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1762 Size=25 - Rooms={176=Room 176, size=25
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 14 Size=26 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 194 Size=26 - Rooms={484=Room 484, size=26
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 213 Size=26 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 464 Size=26 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 989 Size=26 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 993 Size=26 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 59 Size=27 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 181 Size=27 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 185 Size=27 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 558 Size=27 - Rooms={440=Room 440, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 559 Size=27 - Rooms={441=Room 441, size=28
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 995 Size=27 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1211 Size=27 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1220 Size=27 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1484 Size=27 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1052 Size=28 - Rooms={428=Room 428, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1216 Size=28 - Rooms={429=Room 429, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1493 Size=28 - Rooms={430=Room 430, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1581 Size=28 - Rooms={433=Room 433, size=29
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 238 Size=29 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 286 Size=29 - Rooms={25=Room 25, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 312 Size=29 - Rooms={35=Room 35, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 589 Size=29 - Rooms={36=Room 36, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1201 Size=29 - Rooms={40=Room 40, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1513 Size=29 - Rooms={51=Room 51, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1753 Size=29 - Rooms={59=Room 59, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 169 Size=30 - Rooms={60=Room 60, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 347 Size=30 - Rooms={61=Room 61, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 535 Size=30 - Rooms={62=Room 62, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 845 Size=30 - Rooms={63=Room 63, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 935 Size=30 - Rooms={64=Room 64, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1391 Size=30 - Rooms={65=Room 65, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1671 Size=30 - Rooms={66=Room 66, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1823 Size=30 - Rooms={67=Room 67, size=30
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 911 Size=31 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1115 Size=31 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1149 Size=31 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1184 Size=31 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1229 Size=31 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1626 Size=31 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 40 Size=32 - Rooms={57=Room 57, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 69 Size=32 - Rooms={85=Room 85, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 116 Size=32 - Rooms={94=Room 94, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 908 Size=32 - Rooms={96=Room 96, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1070 Size=32 - Rooms={147=Room 147, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1357 Size=32 - Rooms={159=Room 159, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1437 Size=32 - Rooms={181=Room 181, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1814 Size=32 - Rooms={182=Room 182, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1841 Size=32 - Rooms={318=Room 318, size=32
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 232 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 383 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 428 Size=33 - Rooms={39=Room 39, size=33
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 566 Size=33 - Rooms={120=Room 120, size=33
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1178 Size=33 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 120 Size=35 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1210 Size=35 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 234 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 248 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 355 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 678 Size=36 - Rooms={41=Room 41, size=36
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1594 Size=36 - Rooms={151=Room 151, size=36
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 245 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 966 Size=37 - Rooms={303=Room 303, size=37
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1398 Size=37 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1833 Size=37 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 142 Size=38 - Rooms={434=Room 434, size=38
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 543 Size=38 - Rooms={437=Room 437, size=38
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1698 Size=38 - Rooms={438=Room 438, size=38
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1801 Size=38 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1384 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 129 Size=40 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1326 Size=40 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1715 Size=40 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1094 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 785 Size=42 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 824 Size=42 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 444 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 635 Size=43 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 890 Size=43 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 698 Size=44 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1649 Size=44 - Rooms={264=Room 264, size=44
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 68 Size=45 - Rooms={44=Room 44, size=45
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 433 Size=45 - Rooms={92=Room 92, size=45
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 583 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 449 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1380 Size=47 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1616 Size=47 - Rooms={100=Room 100, size=48
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1706 Size=47 - Rooms={195=Room 195, size=48
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1891 Size=51 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1645 Size=53 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1852 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 602 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1804 Size=56 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1584 Size=58 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 263 Size=60 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 652 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1277 Size=64 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1316 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1583 Size=65 - Rooms={149=Room 149, size=66
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1644 Size=65 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 452 Size=69 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1434 Size=70 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 410 Size=74 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1662 Size=76 - Rooms={478=Room 478, size=76
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1334 Size=80 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1027 Size=86 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 923 Size=90 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 132 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1676 Size=108 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 91 Size=115 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 1835 Size=130 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 922 Size=143 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-16 - Period 21 - Exam 696 Size=153 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-16 - Period 22 - Exam 856 Size=289 - Rooms={123=Room 123, size=300
+}
+Booking:  Date 2017-12-16 - Period 23 - Exam 1332 Size=304 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-16 - Period 23 - Exam 865 Size=314 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-16 - Period 24 - Exam 244 Size=339 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-16 - Period 22 - Exam 1443 Size=341 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-16 - Period 22 - Exam 828 Size=344 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-16 - Period 24 - Exam 1491 Size=381 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-16 - Period 23 - Exam 468 Size=386 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-16 - Period 25 - Exam 1128 Size=395 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-16 - Period 24 - Exam 262 Size=465 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-16 - Period 25 - Exam 862 Size=537 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-16 - Period 22 - Exam 1498 Size=589 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-16 - Period 25 - Exam 1092 Size=712 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+}
+Booking:  Date 2017-12-16 - Period 25 - Exam 900 Size=1389 - Rooms={21=Room 21, size=32
+, 22=Room 22, size=120
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 42=Room 42, size=46
+, 43=Room 43, size=20
+, 44=Room 44, size=45
+, 45=Room 45, size=118
+, 46=Room 46, size=82
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+, 55=Room 55, size=18
+, 56=Room 56, size=28
+, 57=Room 57, size=32
+, 58=Room 58, size=49
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 488 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 50 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1579 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1141 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1075 Size=44 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1717 Size=45 - Rooms={44=Room 44, size=45
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 249 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1474 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1909 Size=46 - Rooms={300=Room 300, size=46
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 290 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1688 Size=48 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1487 Size=49 - Rooms={58=Room 58, size=49
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 416 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 722 Size=50 - Rooms={229=Room 229, size=50
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1757 Size=50 - Rooms={265=Room 265, size=50
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 415 Size=52 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1117 Size=52 - Rooms={206=Room 206, size=53
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 342 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1296 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1851 Size=55 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1042 Size=57 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1300 Size=57 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1709 Size=57 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 333 Size=59 - Rooms={139=Room 139, size=60
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 152 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 474 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 905 Size=67 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1259 Size=67 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1419 Size=67 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1586 Size=67 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 386 Size=68 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 661 Size=69 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 728 Size=72 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1214 Size=73 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1268 Size=74 - Rooms={111=Room 111, size=75
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1546 Size=77 - Rooms={272=Room 272, size=78
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 587 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 673 Size=83 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1831 Size=85 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 801 Size=93 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 385 Size=96 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1049 Size=101 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1865 Size=104 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1231 Size=110 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1313 Size=126 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1720 Size=143 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 1743 Size=205 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 861 Size=250 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 450 Size=449 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-17 - Period 26 - Exam 239 Size=1764 - Rooms={1=Room 1, size=27
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 13=Room 13, size=40
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 43=Room 43, size=20
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+, 55=Room 55, size=18
+, 56=Room 56, size=28
+, 57=Room 57, size=32
+, 59=Room 59, size=30
+, 60=Room 60, size=30
+, 61=Room 61, size=30
+, 62=Room 62, size=30
+, 63=Room 63, size=30
+, 64=Room 64, size=30
+, 65=Room 65, size=30
+, 66=Room 66, size=30
+, 67=Room 67, size=30
+, 68=Room 68, size=30
+, 69=Room 69, size=35
+, 70=Room 70, size=49
+, 71=Room 71, size=20
+, 72=Room 72, size=20
+, 73=Room 73, size=20
+, 74=Room 74, size=21
+, 75=Room 75, size=30
+, 76=Room 76, size=20
+, 78=Room 78, size=24
+, 79=Room 79, size=24
+, 80=Room 80, size=24
+, 81=Room 81, size=24
+, 82=Room 82, size=30
+, 83=Room 83, size=30
+}
+Booking:  Date 2017-12-17 - Period 27 - Exam 396 Size=440 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-17 - Period 28 - Exam 585 Size=441 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-17 - Period 29 - Exam 1775 Size=449 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-17 - Period 28 - Exam 1415 Size=471 - Rooms={481=Room 481, size=480
+}
+Booking:  Date 2017-12-17 - Period 29 - Exam 1414 Size=528 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 70 Size=11 - Rooms={490=Room 490, size=11
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1869 Size=11 - Rooms={50=Room 50, size=12
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 731 Size=12 - Rooms={54=Room 54, size=12
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1856 Size=12 - Rooms={116=Room 116, size=12
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1475 Size=13 - Rooms={312=Room 312, size=13
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 529 Size=14 - Rooms={11=Room 11, size=14
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 397 Size=15 - Rooms={48=Room 48, size=15
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1223 Size=15 - Rooms={103=Room 103, size=15
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 569 Size=16 - Rooms={10=Room 10, size=16
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 703 Size=16 - Rooms={19=Room 19, size=16
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1448 Size=16 - Rooms={90=Room 90, size=16
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 79 Size=17 - Rooms={49=Room 49, size=17
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 467 Size=17 - Rooms={347=Room 347, size=17
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 494 Size=17 - Rooms={349=Room 349, size=17
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1301 Size=17 - Rooms={29=Room 29, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1736 Size=17 - Rooms={30=Room 30, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 413 Size=18 - Rooms={55=Room 55, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 595 Size=18 - Rooms={115=Room 115, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 604 Size=18 - Rooms={225=Room 225, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1294 Size=18 - Rooms={313=Room 313, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1447 Size=18 - Rooms={328=Room 328, size=18
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 779 Size=19 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1111 Size=19 - Rooms={4=Room 4, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1562 Size=19 - Rooms={20=Room 20, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1595 Size=19 - Rooms={28=Room 28, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 953 Size=20 - Rooms={43=Room 43, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1021 Size=20 - Rooms={52=Room 52, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1750 Size=20 - Rooms={53=Room 53, size=20
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 288 Size=21 - Rooms={74=Room 74, size=21
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1472 Size=21 - Rooms={340=Room 340, size=21
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 197 Size=22 - Rooms={178=Room 178, size=22
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 597 Size=22 - Rooms={179=Room 179, size=22
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 838 Size=22 - Rooms={275=Room 275, size=22
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1669 Size=22 - Rooms={326=Room 326, size=22
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 76 Size=23 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 424 Size=23 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 536 Size=23 - Rooms={452=Room 452, size=23
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 745 Size=23 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 798 Size=23 - Rooms={78=Room 78, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 913 Size=23 - Rooms={79=Room 79, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 914 Size=23 - Rooms={80=Room 80, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1282 Size=23 - Rooms={81=Room 81, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1456 Size=23 - Rooms={86=Room 86, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 13 Size=24 - Rooms={101=Room 101, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 163 Size=24 - Rooms={104=Room 104, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 180 Size=24 - Rooms={127=Room 127, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 539 Size=24 - Rooms={142=Room 142, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 829 Size=24 - Rooms={166=Room 166, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1338 Size=24 - Rooms={168=Room 168, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1764 Size=24 - Rooms={170=Room 170, size=24
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 42 Size=25 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 44 Size=25 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 136 Size=25 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 683 Size=25 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 987 Size=25 - Rooms={134=Room 134, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1087 Size=25 - Rooms={176=Room 176, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1505 Size=25 - Rooms={242=Room 242, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1656 Size=25 - Rooms={244=Room 244, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1766 Size=25 - Rooms={281=Room 281, size=25
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 227 Size=26 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 658 Size=26 - Rooms={484=Room 484, size=26
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 997 Size=26 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1397 Size=26 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 178 Size=27 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 191 Size=27 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1704 Size=27 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1739 Size=27 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 195 Size=28 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 400 Size=28 - Rooms={440=Room 440, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 663 Size=28 - Rooms={441=Room 441, size=28
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1870 Size=28 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 516 Size=29 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 615 Size=29 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 648 Size=29 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 671 Size=29 - Rooms={428=Room 428, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 886 Size=29 - Rooms={429=Room 429, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1309 Size=29 - Rooms={430=Room 430, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1849 Size=29 - Rooms={433=Room 433, size=29
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 273 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1126 Size=30 - Rooms={25=Room 25, size=30
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1156 Size=30 - Rooms={35=Room 35, size=30
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1641 Size=30 - Rooms={36=Room 36, size=30
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 457 Size=31 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 502 Size=31 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1132 Size=31 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1164 Size=31 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1461 Size=31 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1619 Size=31 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 532 Size=32 - Rooms={57=Room 57, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 876 Size=32 - Rooms={85=Room 85, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1123 Size=32 - Rooms={94=Room 94, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1237 Size=32 - Rooms={96=Room 96, size=32
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 150 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1881 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 361 Size=34 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 877 Size=34 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1162 Size=34 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1876 Size=34 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1877 Size=34 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 110 Size=35 - Rooms={203=Room 203, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 649 Size=35 - Rooms={253=Room 253, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 740 Size=35 - Rooms={254=Room 254, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1150 Size=35 - Rooms={292=Room 292, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1444 Size=35 - Rooms={316=Room 316, size=35
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1392 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1548 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1728 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 324 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 430 Size=37 - Rooms={303=Room 303, size=37
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 204 Size=38 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 944 Size=38 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 958 Size=38 - Rooms={434=Room 434, size=38
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1435 Size=38 - Rooms={437=Room 437, size=38
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 78 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 611 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1532 Size=39 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1800 Size=39 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 937 Size=40 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1078 Size=40 - Rooms={93=Room 93, size=40
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 130 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 612 Size=42 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1599 Size=42 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 936 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 634 Size=44 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1196 Size=44 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1340 Size=44 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1682 Size=44 - Rooms={264=Room 264, size=44
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 473 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1377 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 621 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 121 Size=48 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 448 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1683 Size=50 - Rooms={229=Room 229, size=50
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1896 Size=50 - Rooms={265=Room 265, size=50
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 709 Size=51 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1127 Size=51 - Rooms={222=Room 222, size=51
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1325 Size=51 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1208 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 590 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 834 Size=55 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 48 Size=56 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 236 Size=58 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1292 Size=58 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 207 Size=60 - Rooms={139=Room 139, size=60
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 131 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1354 Size=63 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1608 Size=67 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 55 Size=70 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1281 Size=71 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 420 Size=72 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 708 Size=76 - Rooms={478=Room 478, size=76
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 260 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 348 Size=85 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 253 Size=87 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1837 Size=89 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 305 Size=93 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 636 Size=101 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 499 Size=106 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 1883 Size=131 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 421 Size=138 - Rooms={477=Room 477, size=140
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 941 Size=138 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 38 Size=154 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 231 Size=159 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 440 Size=180 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-19 - Period 30 - Exam 224 Size=310 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-19 - Period 31 - Exam 1157 Size=464 - Rooms={112=Room 112, size=468
+}
+Booking:  Date 2017-12-19 - Period 32 - Exam 1878 Size=478 - Rooms={481=Room 481, size=480
+}
+Booking:  Date 2017-12-19 - Period 33 - Exam 1853 Size=566 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-19 - Period 31 - Exam 1555 Size=871 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-19 - Period 34 - Exam 807 Size=903 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-19 - Period 32 - Exam 1556 Size=971 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-19 - Period 33 - Exam 1862 Size=2018 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 22=Room 22, size=120
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 42=Room 42, size=46
+, 43=Room 43, size=20
+, 44=Room 44, size=45
+, 45=Room 45, size=118
+, 46=Room 46, size=82
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+, 55=Room 55, size=18
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 489 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 148 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1291 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1140 Size=48 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 247 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 525 Size=51 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 655 Size=51 - Rooms={222=Room 222, size=51
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1534 Size=52 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1687 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1260 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1307 Size=55 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1912 Size=55 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1911 Size=57 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1166 Size=58 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1269 Size=58 - Rooms={139=Room 139, size=60
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 291 Size=63 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 730 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 241 Size=68 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1601 Size=68 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 603 Size=69 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1062 Size=69 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 17 Size=70 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 837 Size=70 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1754 Size=71 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1011 Size=80 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 35 Size=82 - Rooms={246=Room 246, size=82
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 113 Size=82 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 117 Size=84 - Rooms={255=Room 255, size=84
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1365 Size=84 - Rooms={256=Room 256, size=84
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 208 Size=87 - Rooms={146=Room 146, size=88
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1659 Size=88 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 942 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 119 Size=94 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 684 Size=99 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1285 Size=102 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 11 Size=107 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 1697 Size=109 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 77 Size=113 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 222 Size=171 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-20 - Period 35 - Exam 970 Size=371 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-20 - Period 36 - Exam 364 Size=971 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-20 - Period 37 - Exam 293 Size=2178 - Rooms={1=Room 1, size=27
+, 2=Room 2, size=58
+, 3=Room 3, size=50
+, 4=Room 4, size=20
+, 5=Room 5, size=36
+, 6=Room 6, size=10
+, 7=Room 7, size=10
+, 8=Room 8, size=48
+, 9=Room 9, size=36
+, 10=Room 10, size=16
+, 11=Room 11, size=14
+, 12=Room 12, size=150
+, 13=Room 13, size=40
+, 14=Room 14, size=30
+, 15=Room 15, size=25
+, 16=Room 16, size=25
+, 17=Room 17, size=40
+, 18=Room 18, size=60
+, 19=Room 19, size=16
+, 20=Room 20, size=20
+, 21=Room 21, size=32
+, 22=Room 22, size=120
+, 23=Room 23, size=60
+, 24=Room 24, size=40
+, 25=Room 25, size=30
+, 26=Room 26, size=32
+, 27=Room 27, size=75
+, 28=Room 28, size=20
+, 29=Room 29, size=18
+, 30=Room 30, size=18
+, 31=Room 31, size=32
+, 32=Room 32, size=36
+, 33=Room 33, size=33
+, 34=Room 34, size=33
+, 35=Room 35, size=30
+, 36=Room 36, size=30
+, 37=Room 37, size=44
+, 38=Room 38, size=24
+, 39=Room 39, size=33
+, 40=Room 40, size=30
+, 41=Room 41, size=36
+, 42=Room 42, size=46
+, 43=Room 43, size=20
+, 44=Room 44, size=45
+, 45=Room 45, size=118
+, 46=Room 46, size=82
+, 47=Room 47, size=32
+, 48=Room 48, size=15
+, 49=Room 49, size=17
+, 50=Room 50, size=12
+, 51=Room 51, size=30
+, 52=Room 52, size=20
+, 53=Room 53, size=20
+, 54=Room 54, size=12
+, 55=Room 55, size=18
+, 56=Room 56, size=28
+, 57=Room 57, size=32
+, 58=Room 58, size=49
+, 59=Room 59, size=30
+, 60=Room 60, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1633 Size=14 - Rooms={11=Room 11, size=14
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1733 Size=14 - Rooms={91=Room 91, size=14
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1345 Size=15 - Rooms={48=Room 48, size=15
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 212 Size=19 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 979 Size=19 - Rooms={4=Room 4, size=20
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1635 Size=19 - Rooms={20=Room 20, size=20
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1634 Size=20 - Rooms={28=Room 28, size=20
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1818 Size=20 - Rooms={43=Room 43, size=20
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1859 Size=20 - Rooms={52=Room 52, size=20
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 487 Size=23 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1520 Size=23 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1567 Size=23 - Rooms={452=Room 452, size=23
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 161 Size=24 - Rooms={38=Room 38, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 423 Size=24 - Rooms={78=Room 78, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 426 Size=24 - Rooms={79=Room 79, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 552 Size=24 - Rooms={80=Room 80, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1061 Size=24 - Rooms={81=Room 81, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1240 Size=24 - Rooms={86=Room 86, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1427 Size=24 - Rooms={101=Room 101, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1455 Size=24 - Rooms={104=Room 104, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1522 Size=24 - Rooms={127=Room 127, size=24
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 567 Size=25 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1519 Size=25 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1575 Size=25 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1631 Size=25 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 203 Size=26 - Rooms={177=Room 177, size=26
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 316 Size=26 - Rooms={484=Room 484, size=26
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 510 Size=26 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1080 Size=26 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 405 Size=27 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 406 Size=27 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1250 Size=27 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 257 Size=28 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1067 Size=28 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1165 Size=28 - Rooms={440=Room 440, size=28
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 313 Size=29 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 668 Size=29 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 853 Size=29 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 899 Size=29 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1694 Size=29 - Rooms={428=Room 428, size=29
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 251 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 495 Size=30 - Rooms={25=Room 25, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1477 Size=30 - Rooms={35=Room 35, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1512 Size=30 - Rooms={36=Room 36, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1652 Size=30 - Rooms={40=Room 40, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1768 Size=30 - Rooms={51=Room 51, size=30
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 392 Size=31 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 704 Size=31 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1019 Size=31 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1321 Size=31 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1540 Size=31 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 969 Size=32 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 209 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 530 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 662 Size=33 - Rooms={39=Room 39, size=33
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 734 Size=33 - Rooms={120=Room 120, size=33
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 847 Size=33 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1479 Size=33 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 476 Size=34 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1295 Size=34 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1413 Size=34 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1600 Size=34 - Rooms={203=Room 203, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 9 Size=35 - Rooms={253=Room 253, size=35
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 164 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 221 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1689 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1880 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 528 Size=38 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 672 Size=38 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 527 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1547 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1696 Size=40 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1824 Size=40 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 145 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 205 Size=41 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 844 Size=41 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1085 Size=41 - Rooms={148=Room 148, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1120 Size=41 - Rooms={191=Room 191, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1181 Size=41 - Rooms={285=Room 285, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1279 Size=41 - Rooms={355=Room 355, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1379 Size=41 - Rooms={361=Room 361, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1607 Size=42 - Rooms={425=Room 425, size=42
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 409 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 718 Size=43 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 887 Size=44 - Rooms={129=Room 129, size=44
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1058 Size=44 - Rooms={235=Room 235, size=44
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 563 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1037 Size=46 - Rooms={189=Room 189, size=46
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1798 Size=46 - Rooms={300=Room 300, size=46
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1258 Size=47 - Rooms={411=Room 411, size=47
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 123 Size=48 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 259 Size=48 - Rooms={100=Room 100, size=48
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1071 Size=48 - Rooms={195=Room 195, size=48
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1643 Size=49 - Rooms={58=Room 58, size=49
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1788 Size=51 - Rooms={212=Room 212, size=51
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 501 Size=52 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 46 Size=53 - Rooms={206=Room 206, size=53
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1558 Size=53 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 362 Size=54 - Rooms={262=Room 262, size=54
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 323 Size=55 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1382 Size=59 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 897 Size=60 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 206 Size=63 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 584 Size=63 - Rooms={266=Room 266, size=63
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 411 Size=64 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 500 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1288 Size=67 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1012 Size=71 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1811 Size=75 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1138 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1445 Size=84 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1402 Size=89 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 460 Size=93 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1029 Size=93 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 1543 Size=94 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 246 Size=96 - Rooms={87=Room 87, size=100
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 264 Size=97 - Rooms={213=Room 213, size=100
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 36 Size=98 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 822 Size=106 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 693 Size=115 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 656 Size=153 - Rooms={194=Room 194, size=154
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 26 Size=157 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 674 Size=160 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 240 Size=168 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 484 Size=193 - Rooms={247=Room 247, size=196
+}
+Booking:  Date 2017-12-21 - Period 40 - Exam 250 Size=487 - Rooms={450=Room 450, size=1045
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 399 Size=57 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 215 Size=58 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 299 Size=58 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 895 Size=60 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 3 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1708 Size=61 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1209 Size=63 - Rooms={266=Room 266, size=63
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1349 Size=63 - Rooms={379=Room 379, size=64
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1054 Size=64 - Rooms={380=Room 380, size=64
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1910 Size=68 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 255 Size=69 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1174 Size=69 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1529 Size=69 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 814 Size=70 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1663 Size=70 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 349 Size=74 - Rooms={27=Room 27, size=75
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 139 Size=75 - Rooms={111=Room 111, size=75
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 757 Size=75 - Rooms={444=Room 444, size=75
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 735 Size=76 - Rooms={478=Room 478, size=76
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 808 Size=79 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 309 Size=83 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1373 Size=90 - Rooms={171=Room 171, size=90
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1810 Size=90 - Rooms={426=Room 426, size=90
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 580 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 904 Size=95 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1650 Size=95 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 21 Size=116 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1322 Size=123 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 855 Size=161 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1822 Size=161 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 710 Size=162 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-22 - Period 45 - Exam 1791 Size=234 - Rooms={140=Room 140, size=234
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 694 Size=18 - Rooms={29=Room 29, size=18
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1795 Size=19 - Rooms={472=Room 472, size=19
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1202 Size=23 - Rooms={305=Room 305, size=23
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1630 Size=23 - Rooms={423=Room 423, size=23
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 374 Size=25 - Rooms={15=Room 15, size=25
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1015 Size=25 - Rooms={16=Room 16, size=25
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1424 Size=25 - Rooms={102=Room 102, size=25
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1560 Size=25 - Rooms={130=Room 130, size=25
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 402 Size=27 - Rooms={1=Room 1, size=27
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 780 Size=27 - Rooms={56=Room 56, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 842 Size=27 - Rooms={165=Room 165, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 192 Size=28 - Rooms={238=Room 238, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 315 Size=28 - Rooms={348=Room 348, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 335 Size=28 - Rooms={431=Room 431, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1114 Size=28 - Rooms={432=Room 432, size=28
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 689 Size=29 - Rooms={105=Room 105, size=29
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 712 Size=29 - Rooms={107=Room 107, size=29
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1527 Size=29 - Rooms={420=Room 420, size=29
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1844 Size=29 - Rooms={424=Room 424, size=29
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1469 Size=30 - Rooms={14=Room 14, size=30
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 235 Size=31 - Rooms={119=Room 119, size=31
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1034 Size=31 - Rooms={427=Room 427, size=31
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1131 Size=31 - Rooms={21=Room 21, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 86 Size=32 - Rooms={26=Room 26, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 547 Size=32 - Rooms={31=Room 31, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1341 Size=32 - Rooms={47=Room 47, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1473 Size=32 - Rooms={57=Room 57, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1550 Size=32 - Rooms={85=Room 85, size=32
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1274 Size=33 - Rooms={33=Room 33, size=33
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1385 Size=33 - Rooms={34=Room 34, size=33
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1410 Size=33 - Rooms={39=Room 39, size=33
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 379 Size=34 - Rooms={386=Room 386, size=34
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 384 Size=34 - Rooms={69=Room 69, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1020 Size=34 - Rooms={143=Room 143, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1638 Size=34 - Rooms={199=Room 199, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1752 Size=34 - Rooms={200=Room 200, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 298 Size=35 - Rooms={203=Room 203, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 382 Size=35 - Rooms={253=Room 253, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 546 Size=35 - Rooms={254=Room 254, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1781 Size=35 - Rooms={292=Room 292, size=35
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 408 Size=36 - Rooms={5=Room 5, size=36
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 447 Size=36 - Rooms={9=Room 9, size=36
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 783 Size=36 - Rooms={32=Room 32, size=36
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 825 Size=36 - Rooms={41=Room 41, size=36
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 620 Size=37 - Rooms={271=Room 271, size=37
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1361 Size=37 - Rooms={303=Room 303, size=37
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1482 Size=37 - Rooms={162=Room 162, size=38
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1782 Size=37 - Rooms={163=Room 163, size=38
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 107 Size=38 - Rooms={434=Room 434, size=38
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 720 Size=38 - Rooms={437=Room 437, size=38
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1246 Size=38 - Rooms={438=Room 438, size=38
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 12 Size=39 - Rooms={198=Room 198, size=39
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 685 Size=39 - Rooms={283=Room 283, size=39
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 726 Size=39 - Rooms={13=Room 13, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 760 Size=39 - Rooms={17=Room 17, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 852 Size=39 - Rooms={24=Room 24, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1745 Size=39 - Rooms={93=Room 93, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 445 Size=40 - Rooms={98=Room 98, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1055 Size=40 - Rooms={99=Room 99, size=40
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 508 Size=41 - Rooms={128=Room 128, size=41
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 576 Size=41 - Rooms={144=Room 144, size=42
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 326 Size=42 - Rooms={145=Room 145, size=42
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 622 Size=43 - Rooms={37=Room 37, size=44
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1664 Size=43 - Rooms={95=Room 95, size=44
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 891 Size=45 - Rooms={44=Room 44, size=45
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 980 Size=46 - Rooms={42=Room 42, size=46
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1820 Size=48 - Rooms={8=Room 8, size=48
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 561 Size=50 - Rooms={3=Room 3, size=50
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 880 Size=50 - Rooms={229=Room 229, size=50
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1024 Size=52 - Rooms={205=Room 205, size=53
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1537 Size=53 - Rooms={206=Room 206, size=53
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 796 Size=54 - Rooms={232=Room 232, size=54
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1747 Size=54 - Rooms={262=Room 262, size=54
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1007 Size=57 - Rooms={2=Room 2, size=58
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1509 Size=57 - Rooms={131=Room 131, size=58
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 646 Size=58 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1364 Size=58 - Rooms={23=Room 23, size=60
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1327 Size=60 - Rooms={137=Room 137, size=60
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1502 Size=63 - Rooms={88=Room 88, size=63
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 94 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 350 Size=66 - Rooms={149=Room 149, size=66
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1158 Size=66 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1306 Size=67 - Rooms={391=Room 391, size=70
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1684 Size=67 - Rooms={417=Room 417, size=70
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 741 Size=68 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1613 Size=69 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1884 Size=69 - Rooms={381=Room 381, size=72
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1585 Size=83 - Rooms={251=Room 251, size=84
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1044 Size=84 - Rooms={255=Room 255, size=84
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 134 Size=89 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 302 Size=100 - Rooms={87=Room 87, size=100
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 456 Size=104 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1390 Size=117 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 699 Size=142 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 884 Size=157 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1712 Size=157 - Rooms={117=Room 117, size=172
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1501 Size=158 - Rooms={267=Room 267, size=174
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 665 Size=167 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 1312 Size=171 - Rooms={315=Room 315, size=180
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 307 Size=202 - Rooms={443=Room 443, size=205
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 910 Size=251 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 47 Size=264 - Rooms={358=Room 358, size=276
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 310 Size=307 - Rooms={449=Room 449, size=400
+}
+Booking:  Date 2017-12-23 - Period 50 - Exam 261 Size=422 - Rooms={214=Room 214, size=445
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1778 Size=59 - Rooms={18=Room 18, size=60
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 805 Size=61 - Rooms={150=Room 150, size=61
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 729 Size=65 - Rooms={371=Room 371, size=65
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 2 Size=70 - Rooms={77=Room 77, size=70
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 154 Size=71 - Rooms={211=Room 211, size=72
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1842 Size=72 - Rooms={297=Room 297, size=72
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1623 Size=73 - Rooms={248=Room 248, size=73
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1045 Size=76 - Rooms={478=Room 478, size=76
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1691 Size=76 - Rooms={272=Room 272, size=78
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1740 Size=76 - Rooms={46=Room 46, size=82
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 962 Size=89 - Rooms={230=Room 230, size=89
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1714 Size=92 - Rooms={284=Room 284, size=96
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1552 Size=95 - Rooms={286=Room 286, size=96
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1544 Size=99 - Rooms={362=Room 362, size=99
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 769 Size=101 - Rooms={363=Room 363, size=115
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1408 Size=102 - Rooms={45=Room 45, size=118
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1786 Size=108 - Rooms={22=Room 22, size=120
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 84 Size=111 - Rooms={268=Room 268, size=120
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1654 Size=128 - Rooms={204=Room 204, size=128
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1315 Size=131 - Rooms={383=Room 383, size=136
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 739 Size=147 - Rooms={12=Room 12, size=150
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 541 Size=158 - Rooms={124=Room 124, size=160
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 219 Size=176 - Rooms={258=Room 258, size=180
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 1370 Size=261 - Rooms={357=Room 357, size=268
+}
+Booking:  Date 2017-12-24 - Period 55 - Exam 765 Size=286 - Rooms={123=Room 123, size=300
+}
